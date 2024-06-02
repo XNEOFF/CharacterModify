@@ -2,7 +2,7 @@
 
 # Character Control Panel: This script provides a convenient interface for adjusting various aspects of your character within Roblox games. From modifying movement speed to tweaking jump power and gravity settings, this panel offers comprehensive control over your in-game avatar's performance. Additionally, it includes options for loading additional GUIs to further enhance your gaming experience.
 
-# Previews
+# Previews:
 
 # Preview CharacterV1
 ![Preview](https://github.com/XNEOFF/Character-Control-Panel/assets/111242581/634ce918-9aa0-4d9f-bf71-f52667c5047d)
