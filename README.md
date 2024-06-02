@@ -4,14 +4,14 @@
 
 # Previews:
 
-# Preview CharacterV1
+# CharacterV1
 ![Preview](https://github.com/XNEOFF/Character-Control-Panel/assets/111242581/634ce918-9aa0-4d9f-bf71-f52667c5047d)
 
 ___
 
-# Preview CharacterV2
+# CharacterV2
 ![Preview](https://github.com/XNEOFF/Character-Control-Panel/assets/111242581/d02a1730-045f-4c7d-8ede-fd8d24276995)
 ___
 
-# Preview Misc
+# Misc
 ![Preview](https://github.com/XNEOFF/Character-Control-Panel/assets/111242581/aeec75ba-2920-4ceb-85d1-9a809b542be1)
